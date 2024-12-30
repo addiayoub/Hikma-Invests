@@ -1,0 +1,42 @@
+<svg width="1110" height="530" viewBox="0 0 1110 530" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_4648_22565)">
+<path d="M0 526H1110" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M11 526L11 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="10.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M120 526L120 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="119.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M228 526L228 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="228.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M338 526L338 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="337.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M446 526L446 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="446.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M556 526L556 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="555.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M664 526L664 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="664.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M774 526L774 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="773.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M882 526L882 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="882.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M992 526L992 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="991.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M1100 526L1100 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="1100.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M665 527L665 429" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path opacity="0.5" d="M6 513C597.497 513 873.529 510.5 1096.98 490" stroke="#989BA9" stroke-width="12" stroke-linecap="round"/>
+<path d="M6 513C284.146 513 492.534 512.447 658.5 509.729" stroke="#989BA9" stroke-width="12" stroke-linecap="round"/>
+<path d="M675.523 509.5C675.523 515.021 671.042 519.5 665.511 519.5C659.98 519.5 655.5 515.021 655.5 509.5C655.5 503.979 659.98 499.5 665.511 499.5C671.042 499.5 675.523 503.979 675.523 509.5Z" fill="white" stroke="#989BA9" stroke-width="5"/>
+<path opacity="0.3" d="M6 513C609.972 513 931.264 467 1096.98 371" stroke="black" stroke-width="12" stroke-linecap="round"/>
+<path d="M6 513C277.94 513 492.572 503.674 661.5 484.658" stroke="black" stroke-width="12" stroke-linecap="round"/>
+<path d="M675.523 484.5C675.523 490.021 671.042 494.5 665.511 494.5C659.98 494.5 655.5 490.021 655.5 484.5C655.5 478.979 659.98 474.5 665.511 474.5C671.042 474.5 675.523 478.979 675.523 484.5Z" fill="white" stroke="black" stroke-width="5"/>
+<path opacity="0.3" d="M6 513C607.298 513 1023.81 346 1096.98 117" stroke="#0000FF" stroke-width="12" stroke-linecap="round"/>
+<path d="M6 513C262.829 513 485.948 482.533 663 429.781" stroke="#0000FF" stroke-width="12" stroke-linecap="round"/>
+<path d="M675.523 428.5C675.523 434.021 671.042 438.5 665.511 438.5C659.98 438.5 655.5 434.021 655.5 428.5C655.5 422.979 659.98 418.5 665.511 418.5C671.042 418.5 675.523 422.979 675.523 428.5Z" fill="white" stroke="#0000FF" stroke-width="5"/>
+</g>
+<defs>
+<clipPath id="clip0_4648_22565">
+<rect width="1110" height="530" fill="white"/>
+</clipPath>
+</defs>
+</svg>

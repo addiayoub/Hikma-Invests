@@ -1,0 +1,42 @@
+<svg width="1110" height="530" viewBox="0 0 1110 530" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_4648_22563)">
+<path d="M0.015625 526H1110.02" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M11 526L11 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="10.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M120 526L120 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="119.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M228 526L228 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="228.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M338 526L338 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="337.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M446 526L446 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="446.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M556 526L556 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="555.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M664 526L664 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="664.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M774 526L774 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="773.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M882 526L882 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="882.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M992 526L992 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="991.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M1100 526L1100 80" stroke="black" stroke-opacity="0.1" stroke-linecap="round" stroke-dasharray="5 10"/>
+<circle cx="1100.5" cy="525.5" r="1.5" fill="black" stroke="black" stroke-width="2"/>
+<path d="M992 527L992 264" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path opacity="0.5" d="M6.01562 513C597.512 513 873.544 510.5 1097 490" stroke="#989BA9" stroke-width="12" stroke-linecap="round"/>
+<path d="M6.01562 513C510.417 513 785.415 511.182 994.031 497.935" stroke="#989BA9" stroke-width="12" stroke-linecap="round"/>
+<path d="M1002.52 495.5C1002.52 501.021 998.042 505.5 992.511 505.5C986.98 505.5 982.5 501.021 982.5 495.5C982.5 489.979 986.98 485.5 992.511 485.5C998.042 485.5 1002.52 489.979 1002.52 495.5Z" fill="white" stroke="#989BA9" stroke-width="5"/>
+<path opacity="0.3" d="M6.01562 513C609.988 513 931.279 467 1097 371" stroke="black" stroke-width="12" stroke-linecap="round"/>
+<path d="M6.01562 513C501.615 513 806.878 482.027 992.031 417.87" stroke="black" stroke-width="12" stroke-linecap="round"/>
+<path d="M1002.52 417.5C1002.52 423.021 998.042 427.5 992.511 427.5C986.98 427.5 982.5 423.021 982.5 417.5C982.5 411.979 986.98 407.5 992.511 407.5C998.042 407.5 1002.52 411.979 1002.52 417.5Z" fill="white" stroke="black" stroke-width="5"/>
+<path opacity="0.3" d="M6.01562 513C607.313 513 1023.83 346 1097 117" stroke="#0000FF" stroke-width="12" stroke-linecap="round"/>
+<path d="M6.01562 513C468.188 513 821.194 414.339 993.031 264.697" stroke="#0000FF" stroke-width="12" stroke-linecap="round"/>
+<path d="M1002.52 262.5C1002.52 268.021 998.042 272.5 992.511 272.5C986.98 272.5 982.5 268.021 982.5 262.5C982.5 256.979 986.98 252.5 992.511 252.5C998.042 252.5 1002.52 256.979 1002.52 262.5Z" fill="white" stroke="#0000FF" stroke-width="5"/>
+</g>
+<defs>
+<clipPath id="clip0_4648_22563">
+<rect width="1110" height="530" fill="white"/>
+</clipPath>
+</defs>
+</svg>
